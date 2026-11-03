@@ -1,0 +1,8 @@
+{
+  "name": "AI Video & Cartoon Studio",
+  "description": "Native Android studio for generating cinematic video & cartoon prompts, consistent character profiles, Roman Urdu/Urdu/English dialogues, VO scripts, and multi-platform exports for Veo, Kling, Runway, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
